@@ -1,12 +1,63 @@
-[
-  {
-    "name": "Ralph L. Comonong",
-    "age": 22,
-    "qoute": "the lord is my shepherd i shall not want"
-  },
-  {
-    "section": "BSIT 3C",
-    "code": "T239",
-    "email": "larphcom@gmail.com"
-  } 
-]
+{
+  "array1":
+  [
+    {
+      "name": "Ralph L. Comonong",
+      "age": 22,
+      "qoute": "The Lord is my shepherd i shall not want"
+    },
+    {
+      "name": "Harry Potter",
+      "age": 12,
+      "qoute": "I am the choosen one."
+    },
+    {
+      "name": "Ronald Weasley",
+      "age": 12,
+      "qoute": "Every next level of your life will demand a different version of you."
+    },
+    {
+      "name": "Dwayne Johson",
+      "age": 18,
+      "qoute": "If you don't know what your want, you'll end up with shit you don't need. "
+    },
+    {
+      "name": "Chris Evans",
+      "age": 20,
+      "qoute": "If they make you an option, make them your history "
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "age": 23,
+      "qoute": "If you want to be somebody different, you have to do something different."
+    }
+  ],
+  "array2":
+  [
+    {
+      "section": "BSIT 3C",
+      "code": "T239",
+      "email": "larphcom@gmail.com"
+    },
+    {
+      "section": "BSIT 3C",
+      "code": "T239",
+      "email": "potter@gmail.com"
+    },
+    {
+      "section": "BSIT 3C",
+      "code": "T239",
+      "email": "dRock@gmail.com"
+    },
+    {
+      "section": "BSIT 3C",
+      "code": "T239",
+      "email": "ICanDOThisAllDay@gmail.com"
+    },
+    {
+      "section": "BSIT 3C",
+      "code": "T239",
+      "email": "Mark3000@gmail.com"
+    }
+  ]
+}
